@@ -296,7 +296,7 @@
                                     @foreach ($posts as $post)
                                     <li>
                                         <div class="latest-research-img">
-                                            <a href="{{url("artikel/$post->id_artikel")}}"><img src="{{asset('assets')}}/images/{{$post->image_path}}" class="img-responsive" alt="skilled" width="200" height="40"></a>
+                                            <a href="{{url("artikel/$post->id_artikel")}}"><img src="{{asset('assets')}}/images/artikelDanBerita/{{$post->image_path}}" class="img-responsive" alt="skilled" width="200" height="40"></a>
                                         </div>
                                         <div class="latest-research-content">
                                             <h4>{{ date('jS M Y',strtotime($post->updated_at)) }}</h4>
