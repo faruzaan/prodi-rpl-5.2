@@ -91,13 +91,13 @@ class IndexController extends Controller
     }
     public function detail_berita($id)
     {
-        $data['posts']=DB::table('tb_artikel')->limit(4)->get();
+        $data['posts'] = DB::table('tb_artikel')->orderBy('created_at','DESC')->limit(4)->get();
         $data['result']=DB::table('tb_berita')->where('id_berita',$id)->first();
         return view('informasi/detail')->with($data);
     }
     public function detail_artikel($id)
     {
-        $data['posts']=DB::table('tb_artikel')->limit(4)->get();
+        $data['posts'] = DB::table('tb_artikel')->orderBy('created_at','DESC')->limit(4)->get();
         $data['result']=DB::table('tb_artikel')->where('id_artikel',$id)->first();
         return view('informasi/detail')->with($data);
     }
