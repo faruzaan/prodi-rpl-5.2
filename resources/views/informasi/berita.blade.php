@@ -23,12 +23,12 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="news-box">
                             <div class="news-img-holder">
-                                <img src="{{asset('assets')}}/images/{{$news->image_path}}" class="img-responsive" alt="research" >
+                                <img src="{{asset('assets')}}/images/artikelDanBerita/home/{{ $news->image_path }}" class="img-responsive" alt="research" >
                                 <ul class="news-date1">
                                     {{-- <li>{{ date('jS M Y',strtotime($news->updated_at)) }}</li> --}}
                                 </ul>
                             </div>
-                            <h2 class="title-default-left-bold"><a href="{{url("berita/$news->id_berita")}}">{{$news->judul}}</a></h2>
+                            <h2 class="title-default-left-bold"><a href="{{url("berita/$news->id_berita")}}">{{ $news->judul }}</a></h2>
                             <ul class="title-bar-high news-comments">
                                 <li><a><i class="fa fa-user" aria-hidden="true"></i><span>By</span> Admin</a></li>
                                 <li><a><i class="fa fa-comments-o" aria-hidden="true"></i><span>(00)</span> Comments</a></li>
@@ -71,17 +71,17 @@
                     </div>
                     <div class="sidebar-box">
                         <div class="sidebar-box-inner">
-                            <h3 class="sidebar-title">Latest Posts</h3>
+                            <h3 class="sidebar-title">Artikel RPL</h3>
                             <div class="sidebar-latest-research-area">
                                 <ul>
                                     @foreach ($posts as $post)
                                     <li>
                                         <div class="latest-research-img">
-                                            <a href="{{url("artikel/$post->id_artikel")}}"><img src="{{asset('assets')}}/images/{{$post->image_path}}" class="img-responsive" alt="skilled" width="200" height="40"></a>
+                                            <a href="{{url("artikel/$post->id_artikel")}}"><img src="{{asset('assets')}}/images/artikelDanBerita/{{$post->image_path}}" class="img-responsive" alt="skilled" width="200" height="40"></a>
                                         </div>
                                         <div class="latest-research-content">
                                             <h4>{{ date('jS M Y',strtotime($post->updated_at)) }}</h4>
-                                            <p><?php
+                                            <p class="module"><?php
                                                 echo substr($post->desc,0,50);
                                                 ?>.....</p>
                                         </div>
