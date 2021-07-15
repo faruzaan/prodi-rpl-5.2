@@ -67,7 +67,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="" style="background: #426CF4;">
+                                        <tr class="" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -151,7 +151,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">22</th>
                                         </tr>
@@ -163,7 +163,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -231,7 +231,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">20</th>
                                         </tr>
@@ -243,7 +243,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -301,7 +301,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">19</th>
                                         </tr>
@@ -313,7 +313,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -371,7 +371,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">20</th>
                                         </tr>
@@ -383,7 +383,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -441,7 +441,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">20</th>
                                         </tr>
@@ -453,7 +453,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -531,7 +531,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">19</th>
                                         </tr>
@@ -543,7 +543,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -594,7 +594,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">16</th>
                                         </tr>
@@ -606,7 +606,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -640,7 +640,7 @@
                                         </tr> --}}
                                     </tbody>
                                     <tfoot>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th colspan="3" class="text-center">TOTAL SKS</th>
                                             <th class="text-center">10</th>
                                         </tr>
@@ -679,7 +679,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -737,7 +737,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
@@ -795,7 +795,7 @@
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
-                                        <tr class="  text-white" style="background: #426CF4;">
+                                        <tr class="  text-white" style="background: #001a39;">
                                             <th class="text-center" style="color: #ffffff">NO</th>
                                             <th class="text-center" style="color: #ffffff">KODE MATA KULIAH</th>
                                             <th class="text-center" style="color: #ffffff">NAMA MATA KULIAH</th>
