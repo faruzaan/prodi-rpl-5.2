@@ -85,14 +85,9 @@
                 <div class="main-menu-area bg-textPrimary" id="sticker">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-1 col-md-2 col-sm-3">
-                                <div class="logo-area">
-                                    <a href="{{url('/')}}"><img class="img-responsive" src="{{asset('assets')}}/images/upilogo.png" alt="logo"></a>
-                                </div>
-                            </div>
                             <div class="col-lg-2 col-md-2 col-sm-3">
                                 <div class="logo-area">
-                                    <a href="{{url('/')}}"><img class="img-responsive" src="{{asset('assets')}}/images/newlogo.png" alt="logo"></a>
+                                    <a href="{{url('/')}}"><img class="img-responsive" src="{{asset('assets')}}/images/logo-new.png" alt="logo"></a>
                                 </div>
                             </div>
                             <div class="col-lg-9 col-md-9 col-sm-9">
